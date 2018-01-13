@@ -147,7 +147,7 @@ button.btn.btn-default.active.btn-lg.button-h-one{
 }
 
 img.pic-articel{
-  height:450px;
+  height:auto;
   width:100%;
 }
 
@@ -155,13 +155,11 @@ img.pic-articel{
   background:rgb(244,244,244);
 }
 
-div.row.contain{
+div.content{
   padding-top:40px;
   border-color:rgb(234,218,205);
   border-style:outset;
   border-width:1px 0px 0px 0px;
-  padding-right:100px;
-  padding-left:100px;
   font-family:century gothic;
 }
 
