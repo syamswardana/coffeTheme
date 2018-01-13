@@ -477,10 +477,10 @@ pa{
   white-space:nowrap;
 }
 
-div.container-fluid.download{
-  padding-left:100px;
-  padding-right:100px;
+div.download{
   background-color:#A47E5F;
+  padding: 25px;
+  text-align: center;
 }
 
 div.carousel-caption.caption-style{
