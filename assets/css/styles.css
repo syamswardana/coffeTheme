@@ -6,14 +6,25 @@ nav.navbar.navbar-default{
   border:none;
   border-radius:0px;
   display:block;
+
 }
 
-a {
+a.title-article {
   text-decoration: none;
   color: black;
 }
 
-a:hover {
+a:hover.title-article {
+  text-decoration: none;
+  color: #736152;
+}
+
+a:visited.title-article {
+  text-decoration: none;
+  color: black;
+}
+
+a:focus.title-article {
   text-decoration: none;
   color: #736152;
 }
@@ -39,6 +50,11 @@ a:hover {
   font-size: 14px;
 }
 
+a:hover {
+  text-decoration: none;
+  color: #736152;
+}
+
 #carousel-1{
   /* height:540px; */
   width:100%;
@@ -53,8 +69,8 @@ a:hover {
 
 a.navbar-brand.navbar-link{
   padding-left:80px;
-  color:rgb(181,157,134);
-  font-size:24px;
+  color:rgb(150,101,53);
+  font-sizCe:24px;
   font-weight:100;
   font-family:century gothic;
 }
