@@ -61,7 +61,7 @@ a:hover {
 }
 
 .size-image{
-  height:100%;
+  /* height:inherit; */
   max-height:540px;
   width:100%;
   display:table;
